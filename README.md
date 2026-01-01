@@ -3,7 +3,7 @@
 
 You can watch the demo video at the following link:
 
-[Click here to see demo video](https://drive.google.com/file/d/1qi2d0l9d0E_vpuq22-WIxRgZfwqRYhGk/view?usp=sharing)
+[ https://drive.google.com/file/d/1qi2d0l9d0E_vpuq22-WIxRgZfwqRYhGk/view?usp=sharing ](https://drive.google.com/file/d/1qi2d0l9d0E_vpuq22-WIxRgZfwqRYhGk/view?usp=sharing)
 
 ## 📌 Project Overview
 
